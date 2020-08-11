@@ -1,0 +1,7 @@
+F:\C#\DZ1\Z1\obj\Debug\Z1.csprojAssemblyReference.cache
+F:\C#\DZ1\Z1\obj\Debug\Z1.csproj.CoreCompileInputs.cache
+F:\C#\DZ1\Z1\bin\Debug\Z1.exe.config
+F:\C#\DZ1\Z1\bin\Debug\Z1.exe
+F:\C#\DZ1\Z1\bin\Debug\Z1.pdb
+F:\C#\DZ1\Z1\obj\Debug\Z1.exe
+F:\C#\DZ1\Z1\obj\Debug\Z1.pdb

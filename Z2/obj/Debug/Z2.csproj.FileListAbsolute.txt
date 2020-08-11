@@ -1,0 +1,6 @@
+F:\C#\DZ1\Z2\bin\Debug\Z2.exe.config
+F:\C#\DZ1\Z2\bin\Debug\Z2.exe
+F:\C#\DZ1\Z2\bin\Debug\Z2.pdb
+F:\C#\DZ1\Z2\obj\Debug\Z2.csproj.CoreCompileInputs.cache
+F:\C#\DZ1\Z2\obj\Debug\Z2.exe
+F:\C#\DZ1\Z2\obj\Debug\Z2.pdb

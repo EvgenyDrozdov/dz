@@ -1,0 +1,7 @@
+F:\C#\DZ1\Z5\bin\Debug\Z5.exe.config
+F:\C#\DZ1\Z5\bin\Debug\Z5.exe
+F:\C#\DZ1\Z5\bin\Debug\Z5.pdb
+F:\C#\DZ1\Z5\obj\Debug\Z5.csprojAssemblyReference.cache
+F:\C#\DZ1\Z5\obj\Debug\Z5.csproj.CoreCompileInputs.cache
+F:\C#\DZ1\Z5\obj\Debug\Z5.exe
+F:\C#\DZ1\Z5\obj\Debug\Z5.pdb

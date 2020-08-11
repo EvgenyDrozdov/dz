@@ -1,0 +1,6 @@
+F:\C#\DZ1\Z3\obj\Debug\Z3.csproj.CoreCompileInputs.cache
+F:\C#\DZ1\Z3\bin\Debug\Z3.exe.config
+F:\C#\DZ1\Z3\bin\Debug\Z3.exe
+F:\C#\DZ1\Z3\bin\Debug\Z3.pdb
+F:\C#\DZ1\Z3\obj\Debug\Z3.exe
+F:\C#\DZ1\Z3\obj\Debug\Z3.pdb
